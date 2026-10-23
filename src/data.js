@@ -1,0 +1,88 @@
+export const products = [
+  {
+    id: 1,
+    name: "Air Jordan 1",
+    price: 120,
+    image: "/images/jordan1.jpg",
+    category: "Men",
+  },
+  {
+    id: 2,
+    name: "Air Jordan 2",
+    price: 135,
+    image: "/images/jordan2.jpg",
+    category: "Men",
+  },
+  {
+    id: 3,
+    name: "Air Jordan 3",
+    price: 150,
+    image: "/images/jordan3.jpg",
+    category: "Men",
+  },
+  {
+    id: 4,
+    name: "Air Jordan 4",
+    price: 180,
+    image: "/images/jordan4.jpg",
+    category: "Women",
+  },
+  {
+    id: 5,
+    name: "Air Jordan 5",
+    price: 160,
+    image: "/images/jordan5.jpg",
+    category: "Men",
+  },
+  {
+    id: 6,
+    name: "Air Jordan 6",
+    price: 175,
+    image: "/images/jordan6.jpg",
+    category: "Women",
+  },
+  {
+    id: 7,
+    name: "Air Jordan 7",
+    price: 140,
+    image: "/images/jordan7.jpg",
+    category: "Kids",
+  },
+  {
+    id: 8,
+    name: "Air Jordan 8",
+    price: 155,
+    image: "/images/jordan8.jpg",
+    category: "Men",
+  },
+  {
+    id: 9,
+    name: "Air Jordan 9",
+    price: 165,
+    image: "/images/jordan9.jpg",
+    category: "Women",
+  },
+  {
+    id: 10,
+    name: "Air Jordan 10",
+    price: 190,
+    image: "/images/jordan10.jpg",
+    category: "Men",
+  },
+  {
+    id: 11,
+    name: "Air Jordan 11",
+    price: 200,
+    image: "/images/jordan11.jpg",
+    category: "Kids",
+  },
+  {
+    id: 12,
+    name: "Air Jordan 12",
+    price: 210,
+    image: "/images/jordan12.jpg",
+    category: "Men",
+  },
+];
+
+export default products;
